@@ -56,31 +56,31 @@
                 android:text="Built by"
                 android:textAppearance="?android:textAppearanceSmall" />
 
-            <com.laowch.githubtrends.utils.AsyncImageView
+            <nl.codequark.gitcompass.utils.AsyncImageView
                 android:id="@+id/avatar1"
                 android:layout_width="@dimen/repo_contributor_avatar_size"
                 android:layout_height="@dimen/repo_contributor_avatar_size"
                 android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
 
-            <com.laowch.githubtrends.utils.AsyncImageView
+            <nl.codequark.gitcompass.utils.AsyncImageView
                 android:id="@+id/avatar2"
                 android:layout_width="@dimen/repo_contributor_avatar_size"
                 android:layout_height="@dimen/repo_contributor_avatar_size"
                 android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
 
-            <com.laowch.githubtrends.utils.AsyncImageView
+            <nl.codequark.gitcompass.utils.AsyncImageView
                 android:id="@+id/avatar3"
                 android:layout_width="@dimen/repo_contributor_avatar_size"
                 android:layout_height="@dimen/repo_contributor_avatar_size"
                 android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
 
-            <com.laowch.githubtrends.utils.AsyncImageView
+            <nl.codequark.gitcompass.utils.AsyncImageView
                 android:id="@+id/avatar4"
                 android:layout_width="@dimen/repo_contributor_avatar_size"
                 android:layout_height="@dimen/repo_contributor_avatar_size"
                 android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
 
-            <com.laowch.githubtrends.utils.AsyncImageView
+            <nl.codequark.gitcompass.utils.AsyncImageView
                 android:id="@+id/avatar5"
                 android:layout_width="@dimen/repo_contributor_avatar_size"
                 android:layout_height="@dimen/repo_contributor_avatar_size"
